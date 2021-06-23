@@ -1,0 +1,2 @@
+# counter
+Vanila Javascript counter 
